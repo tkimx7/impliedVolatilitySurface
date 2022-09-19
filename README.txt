@@ -2,4 +2,4 @@
 ###### --- README --- ######################################################################################
 ############################################################################################################
 # 
-# --- A simple, locally convergent Newton's method to calculate root. This is also used to compute implied vol
+# --- A simple, locally convergent Newton's method to compute implied volatility
